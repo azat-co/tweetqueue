@@ -1,0 +1,28 @@
+{
+  "name": "tweetqueue",
+  "version": "0.0.1",
+  "description": "Queue your tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/azat-co/tweetqueue"
+  },
+  "keywords": [
+    "tweet",
+    "queue",
+    "tweet",
+    "buffer"
+  ],
+  "author": "Azat Mardanov",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/azat-co/tweetqueue/issues"
+  },
+  "dependencies": {
+    "superagent": "~0.15.7",
+    "oauth": "~0.9.10"
+  }
+}
