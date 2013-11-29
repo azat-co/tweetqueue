@@ -24,6 +24,9 @@
   "dependencies": {
     "superagent": "~0.15.7",
     "oauth": "~0.9.10",
-    "mongoskin": "~0.6.1"
+    "mongoskin": "~0.6.1",
+    "async": "~0.2.9",
+    "split": "~0.2.10",
+    "through": "~2.3.4"
   }
 }
