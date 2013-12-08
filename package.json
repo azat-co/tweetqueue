@@ -27,6 +27,7 @@
     "mongoskin": "~0.6.1",
     "async": "~0.2.9",
     "split": "~0.2.10",
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "cheerio": "~0.12.4"
   }
 }
